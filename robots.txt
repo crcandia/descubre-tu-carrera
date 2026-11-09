@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://descubre.lixandria.cl/sitemap.xml
