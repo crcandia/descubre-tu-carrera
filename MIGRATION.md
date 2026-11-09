@@ -7,7 +7,7 @@ Destino previsto: https://descubre.lixandria.cl
 Lixandria.cl y su plataforma permanecen sin cambios.
 
 CNAME.pending conserva la configuración original como referencia; no se publica como CNAME.
-Pendiente: crear CNAME descubre apuntando a crcandia.github.io en Cloudflare, configurar dominio personalizado GitHub Pages y comprobar HTTPS antes de cambiar difusión/enlaces. No modificar registros raíz, www, correo ni servidores de nombres de Lixandria.
+Completado 9 de noviembre de 2026: CNAME descubre apunta a crcandia.github.io (Solo DNS). Dominio personalizado configurado en GitHub Pages, certificado aprobado y HTTPS obligatorio. Verificación: landing HTTPS 200; build 42674541945 exitoso. No modificar registros raíz, www, correo ni servidores de nombres de Lixandria.
 
 El dominio antiguo no se ha cancelado ni modificado. Si expira, sus enlaces y redirecciones dejan de funcionar y otra persona podría registrarlo. Una redirección permanente solo funciona mientras se conserve control del dominio antiguo.
 
